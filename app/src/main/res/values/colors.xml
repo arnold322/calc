@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="screen_background">#FFFFFF</color>
-    <color name="name_gray">#9E9E9E</color>
-    <color name="group_red">#D32F2F</color>
+    <color name="calc_text">#212121</color>
+    <color name="calc_button">#D5D8D6</color>
+    <color name="calc_button_text">#212121</color>
+    <color name="student_text">#424242</color>
+    <color name="color_primary">#1976D2</color>
+    <color name="color_primary_dark">#1565C0</color>
 </resources>
